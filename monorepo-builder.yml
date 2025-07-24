@@ -187,6 +187,7 @@ parameters:
     src/Slack: 'git@github.com:SocialiteProviders/Slack.git'
     src/Smashcast: 'git@github.com:SocialiteProviders/Smashcast.git'
     src/Snapchat: 'git@github.com:SocialiteProviders/Snapchat.git'
+    src/Sonos: 'git@github.com:SocialiteProviders/Sonos.git'
     src/SoundCloud: 'git@github.com:SocialiteProviders/SoundCloud.git'
     src/Spotify: 'git@github.com:SocialiteProviders/Spotify.git'
     src/StackExchange: 'git@github.com:SocialiteProviders/StackExchange.git'
