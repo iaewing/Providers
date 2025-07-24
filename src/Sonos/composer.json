@@ -1,0 +1,20 @@
+{
+    "name": "socialiteproviders/sonos",
+    "description": "Sonos OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian",
+            "email": "ian@beyondco.de"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "socialiteproviders/manager": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Sonos\\": ""
+        }
+    }
+}
